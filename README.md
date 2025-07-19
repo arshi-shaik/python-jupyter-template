@@ -62,12 +62,29 @@ Before diving into the project exercises, it's essential to complete the activit
 2. **Introduction to Matplotlib**: Explore Matplotlib and create basic visualizations.
    - File: `activities/1.2-using-matplotlib.ipynb`
 
+
+
+
+
+
+
+
+
+
+
 ### Steps to Complete Activities
 1. Open the activity files from the `activities` folder in your Codespace.
 2. Follow the instructions provided in the notebook cells.
 3. Experiment with the examples and try out additional code as needed.
 
 ---
+
+
+
+
+
+
+
 
 ## 3. Exercises on Matplotlib
 
