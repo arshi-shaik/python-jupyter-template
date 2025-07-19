@@ -6,9 +6,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
 ipykernel
 pydantic
 matplotlib
+
+
+
+
+
+
 
 
 
