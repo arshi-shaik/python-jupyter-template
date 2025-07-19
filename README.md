@@ -98,7 +98,21 @@ The src folder contains a set of exercises related to Matplotlib. These exercise
 
 ---
 
+
+
+
+
+
+
+
+
 ## 4. Submitting Your Work
+
+
+
+
+
+
 
 ### Submission Guidelines
 1. Save your completed exercise files with  solution in the `src` folder. 

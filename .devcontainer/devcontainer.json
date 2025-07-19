@@ -92,6 +92,17 @@
 		}
 	},
 
+
+
+
+
+
+
+
+
+
+
+
 	"postCreateCommand": "pip3 install --user -r requirements.txt",
 
 	"remoteUser": "vscode",
@@ -99,3 +110,7 @@
 		"azure-cli": "latest"
 	}
 }
+
+
+
+
